@@ -1,6 +1,4 @@
---[[
-    BetterLog by TheKillerBunny
-]]
+--https://discord.com/channels/1129805506354085959/1229966441781133332
 
 local figcolors = {
     AWESOME_BLUE = "#5EA5FF",
