@@ -1,3 +1,5 @@
+--https://discord.com/channels/1129805506354085959/1232501529567826000
+
 ---@alias TextComponentHoverEventAction ('show_text'|'show_item'|'show_entity')
 ---@alias TextComponentHoverEvent { action: TextComponentHoverEventAction, contents: string|TextJsonComponent }
 ---@alias TextComponentClickEventAction ('open_url'|'open_file'|'run_command'|'suggest_command')
