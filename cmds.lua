@@ -1,4 +1,5 @@
 --[[Contributions added by @superpowers04 (made my code better)]]
+--https://discord.com/channels/1129805506354085959/1226413877231882250
 
 local function splitString(str, seperator)
 	if seperator == nil then
