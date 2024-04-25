@@ -1,3 +1,5 @@
+--https://discord.com/channels/1129805506354085959/1218648783718453359
+
 local ThrowBlockKeybind = keybinds:newKeybind("Throw held block", "key.keyboard.tab", false)
 local cmd = "summon %s ~ ~1 ~ {Fuse:40,BlockState:{Name:\"%s\"},Motion:[%f, %f, %f]}"
 
